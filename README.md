@@ -1,9 +1,7 @@
 - 👋 Olá, eu sou Lucão
 - 👀 Estou interessado em me oficializar na área de desenvolvedor (CLT ou PJ)
 - 🌱 Estou aprendendo processoes de qualidade de software
-- 📫 Como entrar em contato comigo:
-  Email: lucasmaxsan@gmail.com
-  LinkedIn: linkedin.com/in/lucasmax
+- 📫 Como entrar em contato comigo: Email: lucasmaxsan@gmail.com / LinkedIn: linkedin.com/in/lucasmax
 - 😄 Como me chamar: Ele / dele
 - ⚡ Curiosidade: Já fui vendedor de artesanato e mecânico industrial
 <!---
